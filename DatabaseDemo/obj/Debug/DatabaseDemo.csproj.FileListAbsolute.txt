@@ -1,0 +1,32 @@
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.dll
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.DatabaseDemo.apk
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\bin\Debug\DatabaseDemo.DatabaseDemo-Signed.apk
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\android\bin\DatabaseDemo.DatabaseDemo.apk
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\res\layout\home.xml
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\res\layout\main.xml
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\res\values\strings.xml
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\res\drawable\icon.png
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\R.cs.flag
+c:\users\maxwell\documents\visual studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\uploadflags.txt
+C:\Users\Maxwell\Documents\Visual Studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\res\layout\inserttasklayout.xml
+C:\Users\Maxwell\Documents\Visual Studio 2013\Projects\DatabaseDemo\DatabaseDemo\obj\Debug\res\layout\searchlayout.xml
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\bin\Debug\DatabaseDemo.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\bin\Debug\DatabaseDemo.pdb
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\bin\Debug\DatabaseDemo.DatabaseDemo.apk
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\bin\Debug\DatabaseDemo.DatabaseDemo-Signed.apk
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\DatabaseDemo.csprojResolveAssemblyReference.cache
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\DatabaseDemo.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\DatabaseDemo.pdb
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\android\bin\DatabaseDemo.DatabaseDemo.apk
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\res\layout\home.xml
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\res\layout\inserttasklayout.xml
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\res\layout\searchlayout.xml
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\res\layout\main.xml
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\res\values\strings.xml
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\res\drawable\icon.png
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\R.cs.flag
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\uploadflags.txt

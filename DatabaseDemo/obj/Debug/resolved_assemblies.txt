@@ -1,0 +1,12 @@
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\DatabaseDemo.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\Mono.Data.Sqlite.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\System.Core.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\System.Data.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\System.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\System.Transactions.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Users\Maxwell\Desktop\Gittest\DBDEMO\DatabaseDemo\obj\Debug\assemblies\Mono.Security.dll
